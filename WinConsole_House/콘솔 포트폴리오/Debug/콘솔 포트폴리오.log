@@ -1,0 +1,179 @@
+﻿  StartScene.cpp
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\key.h(18): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\key.h(21): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\key.h(31): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\key.h(33): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\math.h(38): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SceneMgr.cpp
+  Resource.cpp
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\math.h(38): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  RenderMgr.cpp
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\rendermgr.cpp(59): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  PlayerScene.cpp
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\key.h(18): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\key.h(21): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\key.h(31): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\key.h(33): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\math.h(38): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\player.h(153): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\player.h(244): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\player.h(249): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+  Player.cpp
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\math.h(38): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\key.h(18): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\key.h(21): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\key.h(31): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\key.h(33): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\player.h(153): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\player.h(244): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\player.h(249): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+  ObjectMgr.cpp
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\math.h(38): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\key.h(18): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\key.h(21): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\key.h(31): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\key.h(33): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\player.h(153): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\player.h(244): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\player.h(249): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+  Monster.cpp
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\math.h(38): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ForestScene.cpp
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\key.h(18): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\key.h(21): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\key.h(31): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\key.h(33): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\math.h(38): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\player.h(153): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\player.h(244): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\player.h(249): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\status.h(59): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\status.h(61): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\status.h(63): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\status.h(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\status.h(67): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+  main.cpp
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\key.h(18): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\key.h(21): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\key.h(31): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\key.h(33): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\math.h(38): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\player.h(153): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\player.h(244): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\player.h(249): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\status.h(59): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\status.h(61): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\status.h(63): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\status.h(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\status.h(67): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+  ItemInventory.cpp
+  ItemDB.cpp
+  InfoScene.cpp
+  HomeScene.cpp
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\key.h(18): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\key.h(21): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\key.h(31): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\key.h(33): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\math.h(38): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\player.h(153): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\player.h(244): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\player.h(249): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\status.h(59): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\status.h(61): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\status.h(63): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\status.h(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\status.h(67): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\homescene.cpp(230): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  FieldScene.cpp
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\key.h(18): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\key.h(21): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\key.h(31): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\key.h(33): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\math.h(38): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\player.h(153): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\player.h(244): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\player.h(249): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\status.h(59): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\status.h(61): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\status.h(63): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\status.h(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\status.h(67): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+  ExitScene.cpp
+  CharacterDB.cpp
+  Character.cpp
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\math.h(38): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\character.cpp(22): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\fieldscene.cpp(215): warning C4715: 'FieldScene::exitConfirm': 모든 제어 경로에서 값을 반환하지는 않습니다.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\homescene.cpp(126): warning C4715: 'HomeScene::exitConfirm': 모든 제어 경로에서 값을 반환하지는 않습니다.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\forestscene.cpp(183): warning C4715: 'ForestScene::exitConfirm': 모든 제어 경로에서 값을 반환하지는 않습니다.
+d:\study\study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\콘솔 포트폴리오\playerscene.cpp(95): warning C4715: 'PlayerScene::Confirm': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  콘솔 포트폴리오.vcxproj -> D:\Study\Study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\Debug\콘솔 포트폴리오.exe
+  콘솔 포트폴리오.vcxproj -> D:\Study\Study\포트폴리오\이력서\포트폴리오_이지현\콘솔 포트폴리오\Debug\콘솔 포트폴리오.pdb (Partial PDB)
